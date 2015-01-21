@@ -1,0 +1,29 @@
+{
+  "name": "nightwatch-boilerplate",
+  "version": "0.0.1",
+  "description": "nightwatch boilerplate",
+  "main": "index.js",
+  "dependencies": {
+    "nightwatch": "~0.5.36"
+  },
+  "devDependencies": {
+    "nightwatch": "^0.5.36"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shaohua/nightwatch-boilerplate.git"
+  },
+  "keywords": [
+    "nightwatch",
+    "test"
+  ],
+  "author": "Shaohua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaohua/nightwatch-boilerplate/issues"
+  },
+  "homepage": "https://github.com/shaohua/nightwatch-boilerplate"
+}
